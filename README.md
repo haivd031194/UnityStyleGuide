@@ -71,10 +71,10 @@ Assets
 |   |   +---Sound       # Samples and sound effects
 |   |   +---Textures
 |   |   +---UI
-|   +---Levels          # Unity scene files
-|   +---Src             # C# scripts and shaders
-|   |   +---Framework
-|   |   \---Shaders
+|   |   +---Shaders
+|   +---CSV             # Csv files
+|   +---Scenes          # Unity scene files
+|   +---Scripts
 +---ThirdParties
 |   +---PluginX
 |   +---PluginY
